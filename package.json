@@ -1,6 +1,7 @@
 {
   "name": "weather app",
   "version": "1.0",
+  "author":"Ashok Kumar",
   "dependencies": {
     "body-parser": "^1.17.2",
     "express": "^4.15.4",

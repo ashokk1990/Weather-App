@@ -1,0 +1,16 @@
+# Add any directories, files, or patterns you don't want to be tracked by version # Add any directories, files, or patterns you don't want to be tracked by version control
+.idea
+.sass-cache
+*.iml
+_windows
+databaseSettings.xml
+parameter.hints.xml
+colors.scheme.xml
+debugger.xml
+vcs.xml
+web-browsers.xml
+/node_modules
+Thumbs.db
+.DS_Store
+all-logs.log
+*.log

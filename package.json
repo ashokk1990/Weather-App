@@ -1,0 +1,11 @@
+{
+  "name": "weather app",
+  "version": "1.0",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "hbs": "^4.0.1",
+    "request": "^2.81.0",
+    "weather-js": "^2.0.0"
+  }
+}
